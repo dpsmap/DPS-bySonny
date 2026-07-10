@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Web Map",
+  "description": "A high-performance responsive interactive web map built with React, Leaflet, and OpenStreetMap. Features rich search/filtering, customizable category-colored markers, and a live geolocation tracker.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
